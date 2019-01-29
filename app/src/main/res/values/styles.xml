@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MySwitch" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">@android:color/transparent</item>
+        <item name="colorSwitchThumbNormal">@android:color/transparent</item>
+        <item name="android:colorForeground">@android:color/transparent</item>
+    </style>
+
+    <style name="SwitchThumbTheme">
+        <item name="colorControlActivated">#0000ee</item>
+        <item name="colorSwitchThumbNormal">#80ffffff</item>
+        <item name="android:colorForeground">#FF2F2F2F</item>
+    </style>
+
+    <style name="switch.txt" parent="Theme.AppCompat.Light">
+        <item name="android:textSize">36px</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="SwitchText" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">#3F51B5</item>
+    </style>
+    <style name="s_true" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">#3F51B5</item>
+    </style>
+
+    <style name="s_false" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">#3F51B5</item>
+    </style>
+</resources>

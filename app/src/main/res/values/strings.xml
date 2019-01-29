@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PieDemo</string>
+    <string name="title">饼状图的演示示例 </string>
+</resources>
